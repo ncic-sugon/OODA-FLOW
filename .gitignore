@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+*.so
+*.egg
+*.egg-info
+*.log
+zz_dev_test
+__pycache__
+*.c
+build
+
